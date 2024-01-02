@@ -1,0 +1,36 @@
+Matrix ordered = [
+    [1,2,3],
+    [4,5,6],
+    [7,8,9],
+]
+
+
+Matrix Transpose = [
+    [1,4,7],
+    [2,5,8],
+    [3,6,9],
+]
+
+Matrix Identity = [
+    // يجب ان تكون بشكل  مائل والباقي أصفار
+    [1,0,0],
+    [0,1,0].
+    [0,0,1],
+]
+
+Matrix Scalar = [
+    Scalar Matrix Should Not have All of 1 BUT Any Number in  diagonal way
+    [N, 0, 0],
+    [0, N , 0],
+    [0, 0 , N]
+]
+
+Matrix Sparse = [
+    the zeros in matrix  should be more than the other Numbers
+    [1,2,0],
+    [0,0,0],
+    [1,0,0]
+]
+
+
+intersected  to see if the number in the  both matrices
